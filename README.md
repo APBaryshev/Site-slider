@@ -1,6 +1,6 @@
-## 
-- [Site-slider](https://apbaryshev.github.io/Site-slider)
+## Site-slider
+- [Look at this](https://apbaryshev.github.io/Site-slider)
 - html
 - css
 - js
-- lib/swiper
+- swiper
